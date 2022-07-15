@@ -3,7 +3,7 @@
 
 module Series
 
-  export Σ
+  export Σ,fact,bicoeff,Properties
 
   """
   -IN ORDER TO USE THE Σ! FUNCTION CORRECTLY, YOU NEED TO KNOW WHICH KEYWORDS TO USE
