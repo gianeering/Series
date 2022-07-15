@@ -3,7 +3,7 @@
 
 Series calculator.  
 How-to is inside the script, make sure to check it out before using it!  
-Σ  
+1. Σ  
 This package is completely free, either for commercial or personal use, but keep in mind that if you use them, please, give me the credits.  
 TO INSTALL THE PACKAGE INTO JULIA:  
 
