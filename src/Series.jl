@@ -2,6 +2,7 @@
 #© 2022 Gianfranco Ponza. All rights reserved.
 
 module Series
+
   export Σ
 
   """
