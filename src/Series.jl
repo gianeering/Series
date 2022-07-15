@@ -2,6 +2,8 @@
 #© 2022 Gianfranco Ponza. All rights reserved.
 
 module Series
+  export Σ
+
   """
   -IN ORDER TO USE THE Σ! FUNCTION CORRECTLY, YOU NEED TO KNOW WHICH KEYWORDS TO USE
   FOR EACH OPERATOR, AND SPECIAL FUNCTIONS.
